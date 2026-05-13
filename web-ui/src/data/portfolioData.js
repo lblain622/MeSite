@@ -41,22 +41,22 @@ export const skillGroups = [
 //TODO: Change these from examples
 export const projects = [
   {
-    name: 'Personal Portfolio',
+    name: 'HexaHive - Project',
     summary:
-      'A dark, responsive React portfolio built to present technical range, projects, and creative interests.',
-    stack: ['React', 'CSS', 'Responsive UI'],
+      'A discord bot built inorder to collect data on human behavior in a simiplifed bug bounty economy',
+    stack: ['Node.js', 'JavaScript', 'MongoDB', 'Discord.js'],
   },
   {
-    name: 'API Practice Lab',
+    name: 'NYS State First - Senior Capstone',
     summary:
-      'Small service experiments focused on clean routes, useful data models, and predictable request handling.',
-    stack: ['Node.js', 'Express', 'REST'],
+      'Within a team of 5, designed and built a full stack site for the NYS State First program to showcase programs, events, and resources for student',
+    stack: ['Node.js', 'Express', 'REST','Next.JS', 'React', 'PostgreSQL'],
   },
   {
-    name: 'Cloud Notes',
+    name: 'Student Hustle - Academic Project',
     summary:
-      'A lightweight notes concept exploring hosted storage, authentication patterns, and fast front-end state.',
-    stack: ['React', 'Firebase', 'Auth'],
+      'A full stack freelance marketplace built for a class project to connect students with freelance opportunities from other students. Built with React, Firebase, and Auth0 for authentication.',
+    stack: ['React', 'Firebase', 'Auth','Next.JS'],
   },
 ];
 
@@ -69,7 +69,7 @@ export const resume = {
   fileName: 'Blain,Lucille 2026.pdf',
   headline: 'Current Resume as of May 2026',
   summary:
-    'Passionate software engineer seeking new grad or entry level roles in the software industry. Currently avaible',
+    'Passionate software engineer seeking new grad or entry level roles in the software industry. Currently available starting May 2026',
   highlights: [
     'Software developer focused on practical web apps and readable service design.',
     'Experience building with React, APIs, databases, and cloud-hosted tools.',

@@ -24,7 +24,7 @@ function App() {
         </div>
       </section>
 
-      {/* <section className="section" id="projects">
+      <section className="section" id="projects">
         <SectionHeader eyebrow="Projects" title="Things I am building and/or refining." />
         <div className="project-grid">
           {projects.map((project) => (
@@ -32,7 +32,7 @@ function App() {
           ))}
         </div>
       </section>
-
+      {/*
       <section className="section interest-section" id="interests">
         <SectionHeader eyebrow="Interests" title="What keeps me curious." />
         <InterestList interests={interests} />

@@ -5,9 +5,9 @@ function Hero() {
     <section className="hero" id="top">
       <div className="hero-copy">
         <p className="eyebrow">Software Developer</p>
-        <h1>Hi, I am Lucille Blain. I build softeware that I think the might be fun to use and build</h1>
+        <h1>Hi, I am Lucille Blain. I build software that I think the might be fun to use and build</h1>
         <p className="hero-text">
-          I enjoy creating web apps, services, and tools that feel clear to use and solid under the hood.
+          I enjoy creating web apps, services, and tools.
         </p>
         <div className="hero-actions" aria-label="Portfolio actions">
           <Link className="primary-action" href="#projects">
